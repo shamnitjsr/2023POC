@@ -1,0 +1,29 @@
+package com.shambhu.list;
+
+import java.util.Vector;
+
+//Vector
+
+//1. it is implementation class of List Interface
+//2. data Structure of Vector is growable array
+//3. it is available from 1.0 version
+//4. it is legacy class
+//5. it is thread safe
+//6. its synchronized
+//7.synchronized means single thread at same time
+
+public class P003_Vector {
+
+	public static void main(String[] args) {
+		
+		Vector<Integer> v = new Vector<>();
+		
+		v.add(100);
+		v.add(200);
+		v.add(300);
+		System.out.println(v);
+		
+
+	}
+
+}

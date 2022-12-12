@@ -1,0 +1,18 @@
+package com.shambhu.list;
+
+import java.util.Vector;
+
+//Vector
+
+//1. it is implementation class of List Interface
+//2. 
+public class P003_Vector {
+
+	public static void main(String[] args) {
+		
+		Vector<Integer> v = new Vector<>();
+		
+
+	}
+
+}

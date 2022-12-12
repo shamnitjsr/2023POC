@@ -1,0 +1,42 @@
+package com.shambhu.model;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class ParkingLot {
+
+	List<CompactSpot> compactSpotList = new ArrayList<>();
+
+	List<LargeSpot> largerSpotsList = new ArrayList<>();
+
+	List<BikeSpot> bikeSpotsList = new ArrayList<>();
+
+	int freeCompactSpots;
+	int freeLargeCompactSpots;
+	int freeBikeCompactSpots;
+
+	public ParkingLot(int freeCompactSpots, int largeCompactSpots, int bikeCompactSpots) {
+		this.freeCompactSpots = freeCompactSpots;
+		this.freeLargeCompactSpots = largeCompactSpots;
+		this.freeBikeCompactSpots = bikeCompactSpots;
+	}
+	
+	//parkvehicle
+	
+	public void parkVehicle(Vehicle vehicle) {
+		System.out.println("We are about to park your Vehicle of type " +vehicle.getVehicleType());
+		
+		if(vehicle.getVehicleType().equals(VehicleType.TRUCK)) {
+			
+			if()
+			
+		}else if(vehicle.getVehicleType().equals(VehicleType.CAR)) {
+			
+		}else if(vehicle.getVehicleType().equals(VehicleType.BIKE)) {
+			
+		}
+	}
+	
+	//UnParkVehicle
+
+}

@@ -1,0 +1,14 @@
+package com.shambhu.model;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class ParkingLot {
+	
+	List<CompactSpot> compactSpotList = new ArrayList<>();
+	
+	List<LargeSpot> largerSpotsList = new ArrayList<>();
+	
+	List<BikeSpot> bikeSpotsList = new ArrayList<>();
+
+}

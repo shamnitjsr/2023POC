@@ -1,0 +1,25 @@
+package com.shambhu.model;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class ParkingLot {
+	
+	List<CompactSpot> compactSpotList = new ArrayList<>();
+	
+	List<LargeSpot> largerSpotsList = new ArrayList<>();
+	
+	List<BikeSpot> bikeSpotsList = new ArrayList<>();
+	
+	
+	int freeCompactSpots;
+	int largeCompactSpots;
+	int bikeCompactSpots;
+	
+	public ParkingLot(int freeCompactSpots , int largeCompactSpots , int bikeCompactSpots) {
+		this.freeCompactSpots = freeCompactSpots;
+		this.largeCompactSpots = largeCompactSpots;
+		this.bikeCompactSpots = bikeCompactSpots;
+	}
+
+}

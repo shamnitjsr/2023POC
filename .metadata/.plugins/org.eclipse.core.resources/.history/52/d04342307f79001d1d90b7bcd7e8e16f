@@ -1,0 +1,7 @@
+package com.shambhu.model;
+
+public class ParkingLot {
+	
+	List<CompactSpot> compactSpotList = new ArrayList<>();
+
+}

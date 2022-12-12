@@ -1,0 +1,18 @@
+package com.shambhu.aa;
+
+import java.util.ArrayList;
+
+public class StudentDemo {
+
+	public static void main(String[] args) {
+		
+		ArrayList<Student> al = new ArrayList<>();
+		
+		al.add(new Student(101 , "John"));
+		al.add(new Student(102 , "Smith"));
+		al.add(new Student(103 , "Kith"));
+		al.add(new Student(104 , "Lissa"));
+
+	}
+
+}

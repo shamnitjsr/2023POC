@@ -1,0 +1,18 @@
+package com.shambhu.list;
+
+
+//LinkedList
+//1.Implementation of List Interface
+//2.Internal Data Structure is double linked list
+//3.Insertion order preserved
+//4.duplicates are allowed
+//5.null allowed
+//6.
+public class P002_LinkedList {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

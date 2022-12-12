@@ -1,0 +1,9 @@
+package com.shambhu.model;
+
+public class Vehicle {
+
+	private int vehicleNo;
+	private VehicleType vehicleType;
+	private ParkingSpot parkingSpot;
+
+}

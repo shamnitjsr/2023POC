@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.shambhu.aa&apos; to &apos;com.shambhu.list&apos;&#x0D;&#x0A;- Original project: &apos;002_COLLECTION&apos;&#x0D;&#x0A;- Original element: &apos;002_COLLECTION/src/com.shambhu.aa&apos;&#x0D;&#x0A;- Renamed element: &apos;002_COLLECTION/src/com.shambhu.list&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.shambhu.aa&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.shambhu.aa" name="com.shambhu.list" qualified="false" references="true" stamp="1670791848965" textual="false" version="1.0"/>
+</session>
