@@ -18,7 +18,7 @@ package in.shambhu;
 //In both approches classes will become the tightly coupled
 //IOC is creting the object and using the other class object without creting object
 //by programmer.
-
+//By using of spring-core we will achieve the loosly coupling
 
 public class Car {
 
