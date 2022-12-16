@@ -2,7 +2,7 @@ package in.shambhu;
 
 public class BillCollector {
 
-	private IPayment payment;
+	public IPayment payment;
 
 	public void setPayment(IPayment payment) {
 		this.payment = payment;
