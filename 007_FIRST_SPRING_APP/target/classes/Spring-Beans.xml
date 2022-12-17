@@ -13,7 +13,10 @@
 	<bean id="Upi" class="in.shambhu.UpiPayment" />
 
 	<bean id="billCollector" class="in.shambhu.BillCollector">
-		<property name="payment" ref="debitCard"/>
+	
+		<property name="payment" ref="creditCard"/> 
+		
+		<constructor-arg name="payment" ref="Upi"/>
 	</bean>
 
 

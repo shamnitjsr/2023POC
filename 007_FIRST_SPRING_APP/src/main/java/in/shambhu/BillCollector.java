@@ -5,15 +5,15 @@ public class BillCollector {
 	public IPayment payment;
 
 	public void setPayment(IPayment payment) {
+		System.out.println("setPayment() ::: executed");
 		this.payment = payment;
 	}
 
-	public BillCollector() {
-
-	}
+	
 
 	public BillCollector(IPayment payment) {
 
+		System.out.println("BillCollector :: Param Constructor Executed");
 		this.payment = payment;
 	}
 
