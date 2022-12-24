@@ -1,7 +1,0 @@
-package com.shambhu.model;
-
-public class ParkingSpot {
-	
-	private ParkingSpotType type;
-
-}

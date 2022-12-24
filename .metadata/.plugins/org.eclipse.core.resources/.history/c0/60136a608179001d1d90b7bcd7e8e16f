@@ -1,7 +1,0 @@
-package com.shambhu.model;
-
-public enum VehicleType {
-
-	CAR, TRUCk, BIKE
-
-}

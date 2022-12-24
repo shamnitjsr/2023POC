@@ -1,9 +1,0 @@
-package com.shambhu.model;
-
-public class ComapactSpot extends ParkingSpot {
-
-	public ComapactSpot(ParkingSpotType parkingSpotType) {
-		super(parkingSpotType)
-	}
-
-}
