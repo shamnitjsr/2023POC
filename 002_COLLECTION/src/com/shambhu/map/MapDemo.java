@@ -19,6 +19,8 @@ package com.shambhu.map;
 //1.Properties is a predefined class available in java.util.package
 //2.Properties class extending properties from HashTable class
 //3.Properties class is used to avoid hardcoding in the project.
+
+//ConcurrentHashMap allowed duplicate key.
 public class MapDemo {
 
 	public static void main(String[] args) {
