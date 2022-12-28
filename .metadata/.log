@@ -3763,3 +3763,15 @@ java.util.concurrent.TimeoutException
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-12-29 00:07:24.456
 !MESSAGE executing callback sts4.classpath.jdctDmlK SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-12-29 00:20:20.824
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.jdctDmlK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-12-29 00:20:20.825
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.jdctDmlK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-12-29 00:20:20.827
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-12-29 00:20:20.828
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.jdctDmlK => OK
