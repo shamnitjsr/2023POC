@@ -13,7 +13,11 @@ import java.util.function.Function;
 //predicate -----get boolean value as response----test()
 //Function----some input and output will get----apply()
 //consumer----consume the the value we are not going to return anything--- accept();
-//supplier----get value as ----OTC or Password---get()
+//supplier----get value as ----OTC or Password---get()-----new date()
+//BiPredicate
+//BiFunction
+//BiConsumer
+
 public class Student {
 
 	String name;
