@@ -13445,3 +13445,233 @@ user global configuration and to define the default location to store repositori
 not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
 EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:36.323
+!MESSAGE Boot LS startup time from start to initialized: 8919ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:36.631
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.fKOdgflwisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:36.639
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:36.646
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:36.648
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:36.651
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:36.652
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.fKOdgflw => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:36.707
+!MESSAGE classpath=113 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:36.721
+!MESSAGE buffering callback sts4.classpath.fKOdgflw 054-sb-apache-kafka-producer false 113
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:36.724
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:36.728
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:36.730
+!MESSAGE buffering callback sts4.classpath.fKOdgflw 001_PARKINGLOT false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:36.732
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:36.735
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:36.737
+!MESSAGE buffering callback sts4.classpath.fKOdgflw 002_COLLECTION false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:36.739
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:36.743
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:36.745
+!MESSAGE buffering callback sts4.classpath.fKOdgflw 003_CAR_ENGINE-APP false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:36.748
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:36.751
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:36.753
+!MESSAGE buffering callback sts4.classpath.fKOdgflw 004_CAR_ENGINE-APP2 false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:36.757
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:36.759
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:36.762
+!MESSAGE buffering callback sts4.classpath.fKOdgflw 005_BILL_PAYMENT_APP false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:36.764
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:36.769
+!MESSAGE classpath=12 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:36.774
+!MESSAGE buffering callback sts4.classpath.fKOdgflw 006_SPRING_CORE false 12
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:36.779
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:36.785
+!MESSAGE classpath=13 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:36.786
+!MESSAGE buffering callback sts4.classpath.fKOdgflw 007_FIRST_SPRING_APP false 13
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:36.789
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:36.792
+!MESSAGE classpath=13 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:36.795
+!MESSAGE buffering callback sts4.classpath.fKOdgflw 008_SPRING_BEAN_SCOPES_APP false 13
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:36.797
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:36.801
+!MESSAGE classpath=13 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:36.804
+!MESSAGE buffering callback sts4.classpath.fKOdgflw 009_Autowired_App false 13
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:36.808
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:36.824
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:36.831
+!MESSAGE buffering callback sts4.classpath.fKOdgflw 010_SPRINGBOOT_APP false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:36.834
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:36.836
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:36.839
+!MESSAGE buffering callback sts4.classpath.fKOdgflw 011_MULTITHREADING false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:36.841
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:36.844
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:36.846
+!MESSAGE buffering callback sts4.classpath.fKOdgflw 012_JAVAFEATURES8_DURGA false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:36.848
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:36.863
+!MESSAGE classpath=75 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:36.874
+!MESSAGE buffering callback sts4.classpath.fKOdgflw 013_SPRINGBOOT_MONGODB false 75
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:36.883
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:36.886
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:36.888
+!MESSAGE buffering callback sts4.classpath.fKOdgflw 014_JAVA8_Example false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:36.890
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:36.903
+!MESSAGE classpath=73 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:36.917
+!MESSAGE buffering callback sts4.classpath.fKOdgflw 050_SPRINGBOOT_SECURiTY_API false 73
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:36.923
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:36.941
+!MESSAGE classpath=83 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:36.957
+!MESSAGE buffering callback sts4.classpath.fKOdgflw 051_SPRINGBOOT_SECURITY_JDBC_AUTH false 83
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:36.959
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:36.979
+!MESSAGE classpath=83 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:36.991
+!MESSAGE buffering callback sts4.classpath.fKOdgflw 052_SPRINGBOOT_oauth2.0_APP false 83
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:36.992
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:37.008
+!MESSAGE classpath=77 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:37.019
+!MESSAGE buffering callback sts4.classpath.fKOdgflw 053_SpringBoot_Security_JWT false 77
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:37.023
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:37.036
+!MESSAGE classpath=87 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:37.050
+!MESSAGE buffering callback sts4.classpath.fKOdgflw 055-sb-apache-kafka-consumer false 87
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:37.052
+!MESSAGE executing callback sts4.classpath.fKOdgflw 20 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:32:39.110
+!MESSAGE executing callback sts4.classpath.fKOdgflw FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2023-01-07 01:32:39.112
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:37)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.ui 2 2 2023-01-07 01:35:37.000
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:40:41.311
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.fKOdgflw
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:40:41.314
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.fKOdgflw
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:40:41.316
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-07 01:40:41.318
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.fKOdgflw => OK
