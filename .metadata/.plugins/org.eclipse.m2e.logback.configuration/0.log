@@ -4667,3 +4667,5 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springfra
 2023-01-07 01:40:47,938 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2023-01-07 01:40:47,939 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shamb\Downloads\kafka_workshop\workspace\02-sb-apache-kafka-consumer\src\main\resources
 2023-01-07 01:40:47,940 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shamb\Downloads\kafka_workshop\workspace\02-sb-apache-kafka-consumer\src\main\resources
+2023-01-07 01:40:47,948 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-07 01:40:47,949 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shamb\Downloads\kafka_workshop\workspace\02-sb-apache-kafka-consumer\src\test\resources
