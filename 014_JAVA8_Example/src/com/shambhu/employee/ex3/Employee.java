@@ -1,11 +1,11 @@
 package com.shambhu.employee.ex3;
 
-<<<<<<< HEAD
+
 
 //ShambhuKumarJayswal
-=======
+
 //ShambhuKumar
->>>>>>> 3bad8edff7a4b70b8c6aba90634f4caa0b90c867
+
 public class Employee {
 
 	private Integer eno;
