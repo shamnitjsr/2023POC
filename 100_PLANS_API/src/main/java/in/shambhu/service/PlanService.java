@@ -11,11 +11,17 @@ public interface PlanService {
 	
 	public boolean savePlan(Plan plan);
 	
-	public List<Plan> getAllPlan(Plan plan);
+	public List<Plan> getAllPlans();
 	
-	public String deletePlanById(Integer planId);
+	public Plan getPlanById(Integer planId);
 	
-	public String updatePlan(Integer planId,String planName);
+	public boolean updatePlan(Plan plan);
+	
+	public boolean deletePlanById(Integer planId);
+	
+	public boolean planStatusChange(Integer planId , String status);
+	
+	
 	
 	
 
